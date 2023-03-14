@@ -18,4 +18,5 @@ __The result is similar.__
 
 # Usage
 - The interface of my function is almost the same as sklearn's.
-- My function will return (silhouette score of whole dataset, silhouette score of every sample)
+- My function will return  
+  __Tuple[silhouette score of whole dataset, silhouette score of every sample]__
