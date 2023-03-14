@@ -6,9 +6,8 @@ Implement the silhouette coefficient just for fun :)
 - numpy
 - tqdm
 
-# Result
-- My silhouette coefficient vs sklearn's silhouette coefficient
-- Test by Iris dataset
+# Mine vs Scikit-learn's
+- __Test by Iris dataset__
 ![](assets/3.png)
 ![](assets/1.png)
 ![](assets/2.png)
