@@ -15,3 +15,6 @@ Implement the silhouette coefficient just for fun :smile:
 ![](assets/2.png)
 ---
 __The result is similar.__
+
+# Usage
+- The interface is almost the same as sklearn's.
