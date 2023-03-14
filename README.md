@@ -1,5 +1,5 @@
 # Overview
-Implement the silhouette coefficient just for fun :)
+Implement the silhouette coefficient just for fun :smile:
 
 # Requirement
 - sklearn
