@@ -7,7 +7,7 @@ Implement the silhouette coefficient just for fun :smile:
 - tqdm
 
 # Mine vs Scikit-learn's
-- __Test by Iris dataset__
+- __Test by Iris dataset (Using Kmeans)__
 ![](assets/3.png)
 ---
 ![](assets/1.png)
