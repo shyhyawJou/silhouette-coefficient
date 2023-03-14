@@ -11,3 +11,4 @@ Implement the silhouette coefficient just for fun :)
 ![](assets/3.png)
 ![](assets/1.png)
 ![](assets/2.png)
+__The result is similar.__
